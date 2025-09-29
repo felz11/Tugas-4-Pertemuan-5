@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorSecondary">#FFEB3B</color>
+
+
+    <color name="page_background_light">#F0F4F8</color>
+    <color name="profile_title_text_color">#000000</color>
+    <color name="profile_title_background_yellow">#FFEB3B</color>
+    <color name="card_content_text_color">#333333</color>
+    <color name="contact_info_icon_tint_blue">#1976D2</color>
+    <color name="contact_info_text_blue">#1976D2</color>
+    <color name="button_kembali_blue">#2196F3</color>
+    <color name="button_kembali_text_white">#FFFFFF</color>
+    <color name="card_background_white">#FFFFFF</color>
+
+
+    <color name="my_valid_color">#FF0000</color>
+    <color name="another_valid_color">#FF123456</color>
+    <color name="Secondary">#008577</color>
+</resources>
